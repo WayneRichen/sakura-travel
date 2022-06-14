@@ -111,10 +111,28 @@
 
 .post {
   max-width: 24%;
+  margin-bottom: 5vh;
   text-align: center;
 }
 
 .post > img {
   max-height: 20vh;
   object-fit: cover;
+}
+
+.featured {
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.featured-img {
+  margin-top: 2vh;
+  max-width: 49%;
+}
+
+.featured-text {
+  margin-top: 2vh;
+  max-width: 49%;
 }
