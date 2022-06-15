@@ -1,0 +1,14 @@
+.article {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 2vh;
+}
+
+.title {
+  font-size: 4vh;
+  font-weight: bold;
+}
+
+.article > img {
+  margin-top: 1vh;
+}
